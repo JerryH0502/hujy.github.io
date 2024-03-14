@@ -7,5 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first yeat undergraduate student from [School of Gifted Young](https://sgy.ustc.edu.cn/?60o=gaf672118), [University of Science and Technology in China](https://www.ustc.edu.cn/?lailu=www.yqljz.com).
+I'm a first year undergraduate student from [School of Gifted Young](https://sgy.ustc.edu.cn/?60o=gaf672118), [University of Science and Technology of China(USTC)](https://www.ustc.edu.cn/?lailu=www.yqljz.com).
 
+**Education**
+
+2023.09-Now. School of Gifted Young at the University of Science and Technology of China.
+
+**Awards**
+
+2021 National High School Mathematics Joint Competition (Zhejiang Division), First Prize(2021年全国高中数学联合竞赛浙江赛区一等奖)
