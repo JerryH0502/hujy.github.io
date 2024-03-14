@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year undergraduate student from [School of Gifted Young](https://sgy.ustc.edu.cn/?60o=gaf672118), [University of Science and Technology of China(USTC)](https://www.ustc.edu.cn/?lailu=www.yqljz.com).
+I'm a first-year undergraduate student majoring in Mathematics at the [School of Gifted Young](https://sgy.ustc.edu.cn/?60o=gaf672118), [University of Science and Technology of China(USTC)](https://www.ustc.edu.cn/?lailu=www.yqljz.com).
 
 **Education**
 
